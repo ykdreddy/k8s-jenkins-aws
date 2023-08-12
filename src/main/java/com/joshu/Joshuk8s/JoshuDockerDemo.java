@@ -1,4 +1,4 @@
-package com.jhooq.Joshuk8s;
+package com.joshu.Joshuk8s;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
